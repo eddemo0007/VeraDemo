@@ -1,12 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\doc",
     "\\src",
     "\\src\\main",
+    "\\src\\main\\ebextensions",
     "\\src\\main\\java",
     "\\src\\main\\java\\com",
     "\\src\\main\\java\\com\\veracode",
-    "\\src\\main\\java\\com\\veracode\\verademo"
+    "\\src\\main\\java\\com\\veracode\\verademo",
+    "\\src\\main\\java\\com\\veracode\\verademo\\commands",
+    "\\src\\main\\webapp"
   ],
+  "SelectedNode": "\\src\\main\\java\\com\\veracode\\verademo\\utils\\User.java",
   "PreviewInSolutionExplorer": false
 }
